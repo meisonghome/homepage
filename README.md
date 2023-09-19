@@ -3,48 +3,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>珍稀堂·美品汇</title>
-
-<style>
-body {
-  margin: 0;
-}
-
-/* 头部样式 */
-.header {
-  background-color: #00BFFF;
-  padding: 20px;
-  text-align: center;
-}
-
-
-
-/* 导航条 */
-.topnav {
-  overflow: hidden;
-  background-color: #333;
-}
- 
-/* 导航链接 */
-.topnav a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
- 
-/* 链接 - 修改颜色 */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-</style>
-</head>
-<body>
-
 <div class="header">
   <h1><font  color=" #696969"><i>珍稀堂·美品汇    precious fine goods converge</i></font></h1>
 </div>
@@ -115,73 +73,12 @@ JavaScript</div> -->
 <td/>
 
 
-</tr>
- </table>
-    </div>
-    
-    <br>
-    <br>
-     <br>
-      <br>
-      
-     <hr>
-    <font color="#00CED1"  size="3px"><em>导航 Navigation</em></font>
-    <div  style="background-color:#EEEEEE;height:190px;width:1330px;float:left;border:3px solid #1E90FF;">
-    <table border="1px"  style="background-color:#EEEEEE;height:10px;width:1330px;" >
-    <tr>
+<tr>
        <th >美品上传 Goods Upload </th>
        <th >工具下载 Apps Down</th>
        <th >交易排行 Sales Rankings</th>
        <th >联系我们 Contact Us</th>
-     </tr>
-    
-    <tr>
-      <td><a  href="www.pfg.com"><div  style="text-align:center;">www.pfg.com</div></a></td>
-    <td><a  href="www.pfg.com"><div  style="text-align:center;">www.pfg.com</div></a></td>
-   <td><a  href="www.pfg.com"><div  style="text-align:center;">www.pfg.com</div></a></td>
-    <td><a  href="www.pfg.com"><div  style="text-align:center;">www.pfg.com</div></a></td>
-    </tr> 
-    
-    <tr>
-    <td>w</td>
-    <td>w</td>
-    <td><a href="m3u8.html"></a></td>
-    <td>w</td>
-    </tr>
-    
-    <tr>
-    <td>w</td>
-    <td>w</td>
-    <td>w</td>
-    <td>w</td>
-    </tr>
-    
-    <tr>
-    <td></td>
-    <td>w</td>
-    <td>w</td>
-    <td>w</td>
-    </tr>
-    
-    <tr>
-    <td>w</td>
-    <td>w</td>
-    <td>w</td>
-    <td>w</td>
-    </tr>
-    
-    <tr>
-    <td>w</td>
-    <td>w</td>
-    <td>w</td>
-    <td>w</td>
-    </tr>
-    </table>
-    </div>
-    </div>
-
-
- 
+</tr>
 
 <div  id="button"  style="background-color:#696969;height:471px;width:1350px;text-align:center;">版权所有：<a  href="http://www.meisonghome.com">www.pfg.com </a></div>
 
